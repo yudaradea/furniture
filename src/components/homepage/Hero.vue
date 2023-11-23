@@ -1,6 +1,6 @@
 <template>
-  <div class="hero min-h-screen flex justify-center md:justify-end bg-hero-pattern">
-    <div class="hero-content w-full md:w-auto">
+  <div class="hero min-h-[670px] flex items-center justify-center md:justify-end bg-hero-pattern">
+    <div class="hero-content w-full pt-24 md:w-auto">
       <div class="md:min-w-[643px] w-full min-h-[350px] md:mr-[80px] rounded-md bg-furniture-secondary right-0">
         <div class="p-[30px] flex flex-col gap-[20px]">
           <p class="text-base font-bold tracking-wider">New Arrival</p>
